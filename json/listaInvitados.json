@@ -1,0 +1,25 @@
+{
+    "invitaciones": [
+      {
+        "idInvitado": 1,
+        "codigoInvitaciones": "XOhR",
+        "nombre": "jessica rivera",
+        "numPases": 2,
+        "nombrePases": [
+          { "nombre": "jessica rivera" },
+          { "nombre": "Wero el gatito" }
+        ]
+      },
+      {
+        "idInvitado": 2,
+        "codigoInvitaciones": "xHNr",
+        "nombre": "Santiago Alvarado",
+        "numPases": 3,
+        "nombrePases": [
+          { "nombre": "Canicas" },
+          { "nombre": "Pambazo" },
+          { "nombre": "Romeo" }
+        ]
+      }
+    ]
+  }
