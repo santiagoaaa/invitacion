@@ -579,22 +579,25 @@
 	<script src="logica.js"></script>
 
 	<script>
-    var d = new Date('October 5, 2024 18:00:00');
+    var d = new Date('October 5, 2024 16:00:00');
  //new Date(new Date().getTime() + 200 * 120 * 120 * 2000);
 
     // default example
     simplyCountdown('.simply-countdown-one', {
-        year: d.getFullYear(),
-        month: d.getMonth() + 1,
-        day: d.getDate()
+        year: 2024, // required
+            month: 10, // required
+            day: 5, // required
+            hours: 12, // Default is 0 [0-23] integer 11 = 17 hrs mexico
+            minutes: 0, // Default is 0 [0-59] integer
+            seconds: 0, // Default is 0 [0-59] integer
+			enableUtc: true
     });
 
     //jQuery example
     $('#simply-countdown-losange').simplyCountdown({
         year: d.getFullYear(),
         month: d.getMonth() + 1,
-        day: d.getDate(),
-        enableUtc: false
+        day: d.getDate()
     });
 </script>
 

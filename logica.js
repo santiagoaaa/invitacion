@@ -51,7 +51,7 @@ function buscarInvitadoPorCodigo(jsonData, codigoABuscar) {
   console.log("Codigo a buscar " + codigoABuscar);
 
   if(codigoABuscar === "" || codigoABuscar === null){
-    url = 'index.html'
+    url = '/index.html'
     location.href = url;
   }
 
