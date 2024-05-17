@@ -67,8 +67,7 @@ function buscarInvitadoPorCodigo(jsonData, codigoABuscar) {
   function obtenerNombres(listaPases){
     var nombres = "";
     listaPases.forEach(item => {
-        nombres += item.nombre + ", "
+        nombres += "<li>" + item.nombre + "</li><br/>"
     });
-    console.log(nombres);
     return nombres;
   }
