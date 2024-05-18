@@ -34,12 +34,10 @@ function buscarInvitadoPorCodigo(jsonData, codigoABuscar) {
       {
         "idInvitado": 2,
         "codigoInvitaciones": "xHNr",
-        "nombre": "Santiago Alvarado",
-        "numPases": 3,
+        "nombre": "Jose Luis Ruiz Uitzil",
+        "numPases": 1,
         "nombrePases": [
-          { "nombre": "Canicas" },
-          { "nombre": "Pambazo" },
-          { "nombre": "Romeo" }
+          { "nombre": "Jose Luis Ruiz Uitzil" }
         ]
       }
     ]
