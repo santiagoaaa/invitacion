@@ -357,6 +357,15 @@ function buscarInvitadoPorCodigo(jsonData, codigoABuscar) {
           { "nombre": "Maria Camacho Tinajero" },
           { "nombre": "David Rivera Cerrano" }
         ]
+      },
+      {
+        "idInvitado": 34,
+        "codigoInvitaciones": "IOHR",
+        "nombre": "Consultores",
+        "numPases": 1,
+        "nombrePases": [
+          { "nombre": "Consultores" }
+        ]
       }
     ]
   };
