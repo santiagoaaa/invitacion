@@ -366,6 +366,16 @@ function buscarInvitadoPorCodigo(jsonData, codigoABuscar) {
         "nombrePases": [
           { "nombre": "Consultores" }
         ]
+      },
+      {
+        "idInvitado": 35,
+        "codigoInvitaciones": "zyCd",
+        "nombre": "Eyder Alonso Perera Herrera",
+        "numPases": 2,
+        "nombrePases": [
+          { "nombre": "Eyder Alonso Perera Herrera" },
+          { "nombre": "1 Acompañante" }
+        ]
       }
     ]
   };
