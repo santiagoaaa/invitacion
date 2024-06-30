@@ -90,8 +90,8 @@ function buscarInvitadoPorCodigo(jsonData, codigoABuscar) {
         "numPases": 3,
         "nombrePases": [
           { "nombre": "Rogelio Garcia Perez" },
-          { "nombre": "Toña" },
-          { "nombre": "Valeria Garcia" }
+          { "nombre": "Antonia Patiño Martinez" },
+          { "nombre": "Valeria Garcia Patiño" }
         ]
       },
       {
@@ -109,8 +109,8 @@ function buscarInvitadoPorCodigo(jsonData, codigoABuscar) {
         "nombre": "Ana Karen Olvera Garcia",
         "numPases": 3,
         "nombrePases": [
-          { "nombre": "Ana Karen Olvera Garcia" },
-          { "nombre": "Abel Montoya" },
+          { "nombre": "Karen Olvera Garcia" },
+          { "nombre": "Abel Montoya Martinez" },
           { "nombre": "Ariana Montoya Olvera (Niña)" }
         ]
       },
@@ -120,7 +120,7 @@ function buscarInvitadoPorCodigo(jsonData, codigoABuscar) {
         "nombre": "Karla Andrea Olvera Garcia",
         "numPases": 4,
         "nombrePases": [
-          { "nombre": "Karla Andrea Olvera Garcia" },
+          { "nombre": "Andrea Olvera Garcia" },
           { "nombre": "Diego Flores Maruri" },
           { "nombre": "Jimena Flores Olvera (Niña)" },
           { "nombre": "Diego Flores Olvera (Niño)" }
@@ -133,9 +133,9 @@ function buscarInvitadoPorCodigo(jsonData, codigoABuscar) {
         "numPases": 4,
         "nombrePases": [
           { "nombre": "Marcos Adrian Olvera Garcia" },
-          { "nombre": "Yola" },
-          { "nombre": "Kevin" },
-          { "nombre": "Santi" }
+          { "nombre": "Yolanda Nava Maya" },
+          { "nombre": "Kevin Olvera Nava" },
+          { "nombre": "Santiago Olvera Nava" }
         ]
       },
       {
@@ -144,9 +144,9 @@ function buscarInvitadoPorCodigo(jsonData, codigoABuscar) {
         "nombre": "Gely",
         "numPases": 3,
         "nombrePases": [
-          { "nombre": "Gely" },
+          { "nombre": "Angelica Perez Garcia" },
           { "nombre": "Rosa Maria Garcia Perez" },
-          { "nombre": "Julia" }
+          { "nombre": "Julia Herrera Perez" }
         ]
       },
       {
@@ -237,7 +237,7 @@ function buscarInvitadoPorCodigo(jsonData, codigoABuscar) {
         "nombre": "Rodo",
         "numPases": 1,
         "nombrePases": [
-          { "nombre": "Rodo" }
+          { "nombre": "Rodolfo Guadalupe Frias Lugo" }
         ]
       },
       {
@@ -246,7 +246,7 @@ function buscarInvitadoPorCodigo(jsonData, codigoABuscar) {
         "nombre": "Diego",
         "numPases": 1,
         "nombrePases": [
-          { "nombre": "Diego" }
+          { "nombre": "Diego Pizano Lopez" }
         ]
       },
       {
@@ -274,7 +274,7 @@ function buscarInvitadoPorCodigo(jsonData, codigoABuscar) {
         "nombre": "Marisol",
         "numPases": 1,
         "nombrePases": [
-          { "nombre": "Marisol" }
+          { "nombre": "Marisol Rodriguez Caballero" }
         ]
       },
       {
@@ -370,15 +370,298 @@ function buscarInvitadoPorCodigo(jsonData, codigoABuscar) {
       {
         "idInvitado": 35,
         "codigoInvitaciones": "zyCd",
-        "nombre": "Eyder Alonso Perera Herrera",
+        "nombre": "Eyder Alonso Perea Herrera",
         "numPases": 2,
         "nombrePases": [
           { "nombre": "Eyder Alonso Perera Herrera" },
           { "nombre": "1 Acompañante" }
         ]
+      },
+      {
+        "idInvitado": 36,
+        "codigoInvitaciones": "TaGA",
+        "nombre": "Ma. Carmen Alva Arreguin",
+        "numPases": 4,
+        "nombrePases": [
+          { "nombre": "Ma. Carmen Alva Arreguin" },
+          { "nombre": "Gerado Rosiles Garcia" },
+          { "nombre": "Kevin Imanol Rosiles Alva" },
+          { "nombre": "Valeria Mendoza Contreras" }
+        ]
+      },
+      {
+        "idInvitado": 37,
+        "codigoInvitaciones": "jawC",
+        "nombre": "Juanita Alba Arreguin",
+        "numPases": 2,
+        "nombrePases": [
+          { "nombre": "Juanita Alba Arreguin" },
+          { "nombre": "Leopoldo Ortiz Uribe" }
+        ]
+      },
+      {
+        "idInvitado": 38,
+        "codigoInvitaciones": "QsjJ",
+        "nombre": "Claudia Iveth Ortiz Alba",
+        "numPases": 4,
+        "nombrePases": [
+          { "nombre": "Claudia Iveth Ortiz Alba" },
+          { "nombre": "Israel Rodriguez Saldaña" },
+          { "nombre": "Maya Isibeth Rodriguez Ortiz" },
+          { "nombre": "Eugenio Rodriguez Ortiz  (Niño)" }
+        ]
+      },
+      {
+        "idInvitado": 39,
+        "codigoInvitaciones": "LnkA",
+        "nombre": "Leopoldo Ortiz Alba",
+        "numPases": 3,
+        "nombrePases": [
+          { "nombre": "Leopoldo Ortiz Alba" },
+          { "nombre": "Marisa Flores Saldaña" },
+          { "nombre": "Melisa Ortiz Flores (Niño)" }
+        ]
+      },
+      {
+        "idInvitado": 40,
+        "codigoInvitaciones": "tEUv",
+        "nombre": "Gerardo Alba Arreguin",
+        "numPases": 7,
+        "nombrePases": [
+          { "nombre": "Gerardo Alba Arreguin" },
+          { "nombre": "Laura Gallart Alcantara" },
+          { "nombre": "Gerardo Alba Gallart" },
+          { "nombre": "Novia Lalito" },
+          { "nombre": "Diego Kisai Alba Gallart" },
+          { "nombre": "Maria Jose" },
+          { "nombre": "Iker Alba (Niño)" }
+        ]
+      },
+      {
+        "idInvitado": 41,
+        "codigoInvitaciones": "dyhY",
+        "nombre": "Guillermina Alba Arreguin",
+        "numPases": 5,
+        "nombrePases": [
+          { "nombre": "Guillermina Alba Arreguin" },
+          { "nombre": "Mayela Martinez Alba" },
+          { "nombre": "Luis Eduardo Jara Martinez" },
+          { "nombre": "Ricardo Lerma Martinez" },
+          { "nombre": "Pedro Lerma Martinez" }
+        ]
+      },
+      {
+        "idInvitado": 42,
+        "codigoInvitaciones": "zkiL",
+        "nombre": "Guillermo Martinez Alba",
+        "numPases": 3,
+        "nombrePases": [
+          { "nombre": "Guillermo Martinez Alba" },
+          { "nombre": "Delfina Pozos" },
+          { "nombre": "Camila Martinez (niña)" }
+        ]
+      },
+      {
+        "idInvitado": 43,
+        "codigoInvitaciones": "NhqG",
+        "nombre": "Lourdes Flores",
+        "numPases": 4,
+        "nombrePases": [
+          { "nombre": "Lourdes Flores" },
+          { "nombre": "Arturo Alba Lopez" },
+          { "nombre": "Eliot Bravo Flores" },
+          { "nombre": "Arturo Alba Flores" }
+        ]
+      },
+      {
+        "idInvitado": 44,
+        "codigoInvitaciones": "OgZc",
+        "nombre": "Sergio Alba Lopez",
+        "numPases": 1,
+        "nombrePases": [
+          { "nombre": "Sergio Alba Lopez" }
+        ]
+      },
+      {
+        "idInvitado": 45,
+        "codigoInvitaciones": "QgeI",
+        "nombre": "Javier Alba Arreguin",
+        "numPases": 3,
+        "nombrePases": [
+          { "nombre": "Javier Alba Arreguin" },
+          { "nombre": "Laura Patricia Estrada" },
+          { "nombre": "Valeria Alba Estrada" }
+        ]
+      },
+      {
+        "idInvitado": 46,
+        "codigoInvitaciones": "lFXH",
+        "nombre": "Laura Estefania Alba Estrada",
+        "numPases": 3,
+        "nombrePases": [
+          { "nombre": "Laura Estefania Alba Estrada" },
+          { "nombre": "Jorge Guitierrez Unzueta" },
+          { "nombre": "Atenea Gutierrez Alba (niña)" }
+        ]
+      },
+      {
+        "idInvitado": 47,
+        "codigoInvitaciones": "SHBe",
+        "nombre": "Francisco Javier Alba Estrada",
+        "numPases": 4,
+        "nombrePases": [
+          { "nombre": "Francisco Javier Alba Estrada" },
+          { "nombre": "Karen" },
+          { "nombre": "Fco Javier" },
+          { "nombre": "Aitana " }
+        ]
+      },
+      {
+        "idInvitado": 48,
+        "codigoInvitaciones": "mtyJ",
+        "nombre": "Veronica Alba",
+        "numPases": 8,
+        "nombrePases": [
+          { "nombre": "Veronica Alba" },
+          { "nombre": "Eustaquio Herrera Soto" },
+          { "nombre": "Gerardo Herrera Alba" },
+          { "nombre": "Daniel Ulises Herrera Alba" },
+          { "nombre": "Tabata Marina" },
+          { "nombre": "Greko" },
+          { "nombre": "Leonardo Herrara" },
+          { "nombre": "Novia Leo" }
+        ]
+      },
+      {
+        "idInvitado": 49,
+        "codigoInvitaciones": "QGtv",
+        "nombre": "Margarita Alvarado Luna",
+        "numPases": 3,
+        "nombrePases": [
+          { "nombre": "Margarita Alvarado Luna" },
+          { "nombre": "Pedro Sachez" },
+          { "nombre": "Pedro Sanchez Alvarado" }
+        ]
+      },
+      {
+        "idInvitado": 50,
+        "codigoInvitaciones": "xvxa",
+        "nombre": "Juanita Alvarado Luna",
+        "numPases": 2,
+        "nombrePases": [
+          { "nombre": "Juanita Alvarado Luna" },
+          { "nombre": "Liliana Dutel Alvarado" }
+        ]
+      },
+      {
+        "idInvitado": 51,
+        "codigoInvitaciones": "CLRk",
+        "nombre": "Antonio Rangel",
+        "numPases": 1,
+        "nombrePases": [
+          { "nombre": "Antonio Rangel" }
+        ]
+      },
+      {
+        "idInvitado": 52,
+        "codigoInvitaciones": "fCXS",
+        "nombre": "Jorge Rico",
+        "numPases": 1,
+        "nombrePases": [
+          { "nombre": "Jorge Rico" }
+        ]
+      },
+      {
+        "idInvitado": 53,
+        "codigoInvitaciones": "vpAJ",
+        "nombre": " Rodrigo Ibarra",
+        "numPases": 2,
+        "nombrePases": [
+          { "nombre": " Rodrigo Ibarra" },
+          { "nombre": "Novia Rodrigo" }
+        ]
+      },
+      {
+        "idInvitado": 54,
+        "codigoInvitaciones": "AmLC",
+        "nombre": "Daniel Rodriguez",
+        "numPases": 2,
+        "nombrePases": [
+          { "nombre": "Daniel Rodriguez" },
+          { "nombre": "Novia Daniel" }
+        ]
+      },
+      {
+        "idInvitado": 55,
+        "codigoInvitaciones": "eolg",
+        "nombre": "Daniel Zamudio",
+        "numPases": 1,
+        "nombrePases": [
+          { "nombre": "Daniel Zamudio" }
+        ]
+      },
+      {
+        "idInvitado": 56,
+        "codigoInvitaciones": "wjMA",
+        "nombre": "Ana Karina Arredondo Salomon",
+        "numPases": 2,
+        "nombrePases": [
+          { "nombre": "Ana Karina Arredondo Salomon" },
+          { "nombre": "Miguel Angel Puga Rojas" }
+        ]
+      },
+      {
+        "idInvitado": 57,
+        "codigoInvitaciones": "zgdu",
+        "nombre": "Rodrigo Gutierrez",
+        "numPases": 2,
+        "nombrePases": [
+          { "nombre": "Rodrigo Gutierrez" },
+          { "nombre": "Novia rodrigo" }
+        ]
+      },
+      {
+        "idInvitado": 58,
+        "codigoInvitaciones": "oTLZ",
+        "nombre": "Javier Rico",
+        "numPases": 2,
+        "nombrePases": [
+          { "nombre": "Javier Rico" },
+          { "nombre": "Acompañante" }
+        ]
+      },
+      {
+        "idInvitado": 59,
+        "codigoInvitaciones": "jpqw",
+        "nombre": "Jaime",
+        "numPases": 2,
+        "nombrePases": [
+          { "nombre": "Jaime" },
+          { "nombre": "Acompañante" }
+        ]
+      },
+      {
+        "idInvitado": 60,
+        "codigoInvitaciones": "mSnY",
+        "nombre": "Ma. Guadalupe Alva Arreguin",
+        "numPases": 3,
+        "nombrePases": [
+          { "nombre": "Ma. Guadalupe Alva Arreguin" },
+          { "nombre": "Pedro Emilio Alvarado Alva" },
+          { "nombre": "Mayra Guadalupe Alvarado Alva" }
+        ]
+      },
+      {
+        "idInvitado": 61,
+        "codigoInvitaciones": "teub",
+        "nombre": "Higinio Alvarado Luna",
+        "numPases": 1,
+        "nombrePases": [
+          { "nombre": "Higinio Alvarado Luna" }
+        ]
       }
     ]
-  };
+  }
   
   
 
