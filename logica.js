@@ -134,8 +134,8 @@ function buscarInvitadoPorCodigo(jsonData, codigoABuscar) {
         "nombrePases": [
           { "nombre": "Marcos Adrian Olvera Garcia" },
           { "nombre": "Yolanda Nava Maya" },
-          { "nombre": "Kevin Olvera Nava" },
-          { "nombre": "Santiago Olvera Nava" }
+          { "nombre": "Kevin Olvera Nava (Niño)" },
+          { "nombre": "Santiago Olvera Nava (Niño)" }
         ]
       },
       {
@@ -206,10 +206,9 @@ function buscarInvitadoPorCodigo(jsonData, codigoABuscar) {
         "idInvitado": 18,
         "codigoInvitaciones": "cURg",
         "nombre": "Christian Morelos Rivera",
-        "numPases": 2,
+        "numPases": 1,
         "nombrePases": [
-          { "nombre": "Christian Morelos Rivera" },
-          { "nombre": "Juan Esposo de chris" }
+          { "nombre": "Christian Morelos Rivera" }
         ]
       },
       {
@@ -291,9 +290,10 @@ function buscarInvitadoPorCodigo(jsonData, codigoABuscar) {
         "idInvitado": 27,
         "codigoInvitaciones": "MgHc",
         "nombre": "Sergio Camaho Uribe",
-        "numPases": 1,
+        "numPases": 2,
         "nombrePases": [
-          { "nombre": "Sergio Camaho Uribe" }
+          { "nombre": "Sergio Camaho Uribe" },
+          { "nombre": "Acompañante" }
         ]
       },
       {
@@ -335,8 +335,8 @@ function buscarInvitadoPorCodigo(jsonData, codigoABuscar) {
         "nombrePases": [
           { "nombre": "Arleth Mendoza" },
           { "nombre": "Neftali Mendoza" },
-          { "nombre": "Jacob Mendoza" },
-          { "nombre": "Lea Mendoza" }
+          { "nombre": "Jacob Mendoza (Niño)" },
+          { "nombre": "Lea Mendoza (Niña)" }
         ]
       },
       {
@@ -658,6 +658,16 @@ function buscarInvitadoPorCodigo(jsonData, codigoABuscar) {
         "numPases": 1,
         "nombrePases": [
           { "nombre": "Higinio Alvarado Luna" }
+        ]
+      },
+      {
+        "idInvitado": 62,
+        "codigoInvitaciones": "seKZ",
+        "nombre": "Marco Antorio Zaraut",
+        "numPases": 2,
+        "nombrePases": [
+          { "nombre": "Marco Antorio Zaraut" },
+          { "nombre": "Yaretzi Zaraut" }
         ]
       }
     ]
