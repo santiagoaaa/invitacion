@@ -568,7 +568,8 @@ function buscarInvitadoPorCodigo(jsonData, codigoABuscar) {
         "nombre": "Jorge Rico",
         "numPases": 1,
         "nombrePases": [
-          { "nombre": "Jorge Rico" }
+          { "nombre": "Jorge Rico" },
+          { "nombre": "Acompañante" }
         ]
       },
       {
@@ -578,7 +579,7 @@ function buscarInvitadoPorCodigo(jsonData, codigoABuscar) {
         "numPases": 2,
         "nombrePases": [
           { "nombre": " Rodrigo Ibarra" },
-          { "nombre": "Novia Rodrigo" }
+          { "nombre": "Georgina Torres" }
         ]
       },
       {
@@ -588,7 +589,7 @@ function buscarInvitadoPorCodigo(jsonData, codigoABuscar) {
         "numPases": 2,
         "nombrePases": [
           { "nombre": "Daniel Rodriguez" },
-          { "nombre": "Novia Daniel" }
+          { "nombre": "Acompañante" }
         ]
       },
       {
@@ -617,7 +618,7 @@ function buscarInvitadoPorCodigo(jsonData, codigoABuscar) {
         "numPases": 2,
         "nombrePases": [
           { "nombre": "Rodrigo Gutierrez" },
-          { "nombre": "Novia rodrigo" }
+          { "nombre": "Vanessa Carmona Perez" }
         ]
       },
       {
