@@ -528,7 +528,7 @@ function buscarInvitadoPorCodigo(jsonData, codigoABuscar) {
           { "nombre": "Daniel Ulises Herrera Alba" },
           { "nombre": "Tabata Marina" },
           { "nombre": "Greko" },
-          { "nombre": "Leonardo Herrara" },
+          { "nombre": "Leonardo Herrera" },
           { "nombre": "Novia Leo" }
         ]
       },
