@@ -529,7 +529,8 @@ function buscarInvitadoPorCodigo(jsonData, codigoABuscar) {
           { "nombre": "Tabata Marina" },
           { "nombre": "Greko" },
           { "nombre": "Leonardo Herrera" },
-          { "nombre": "Novia Leo" }
+          { "nombre": "Novia Leo" },
+          {"nombre": "Yolanda Alcántara López"}
         ]
       },
       {
@@ -550,7 +551,8 @@ function buscarInvitadoPorCodigo(jsonData, codigoABuscar) {
         "numPases": 2,
         "nombrePases": [
           { "nombre": "Juanita Alvarado Luna" },
-          { "nombre": "Liliana Dutel Alvarado" }
+          { "nombre": "Liliana Dutel Alvarado" },
+          { "nombre": "Elian" }
         ]
       },
       {
