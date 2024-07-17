@@ -58,7 +58,10 @@ function buscarInvitadoPorCodigo(jsonData, codigoABuscar) {
         "nombre": "Maria de Jesus Garcia Perez (Mama Novia)",
         "numPases": 1,
         "nombrePases": [
-          { "nombre": "Maria de Jesus Garcia Perez (Mamá Novia)" }
+          { "nombre": "Maria de Jesus Garcia Perez" },
+          { "nombre": "Jesus Gutierrez Rodriguez" },
+          { "nombre": "Jesus Gutierrez Gonzalez" },
+          { "nombre": "Laura Yesenia Lopez Rodriguez" }
         ]
       },
       {
@@ -155,7 +158,9 @@ function buscarInvitadoPorCodigo(jsonData, codigoABuscar) {
         "nombre": "Alejandro Rivera Camacho (Papa Novia)",
         "numPases": 1,
         "nombrePases": [
-          { "nombre": "Alejandro Rivera Camacho (Papa Novia)" }
+          { "nombre": "Alejandro Rivera Camacho" },
+          { "nombre": "Miriam Aguilar" },
+          { "nombre": "Valentina Rivera Aguilar (Niña)" }
         ]
       },
       {
@@ -345,7 +350,8 @@ function buscarInvitadoPorCodigo(jsonData, codigoABuscar) {
         "nombre": "Martin Garcia Perez",
         "numPases": 1,
         "nombrePases": [
-          { "nombre": "Martin Garcia Perez" }
+          { "nombre": "Martin Garcia Perez" },
+          { "nombre": "Julissa Garcia" }
         ]
       },
       {
@@ -419,7 +425,7 @@ function buscarInvitadoPorCodigo(jsonData, codigoABuscar) {
         "nombrePases": [
           { "nombre": "Leopoldo Ortiz Alba" },
           { "nombre": "Marisa Flores Saldaña" },
-          { "nombre": "Melisa Ortiz Flores (Niño)" }
+          { "nombre": "Melisa Ortiz Flores (Niña)" }
         ]
       },
       {
