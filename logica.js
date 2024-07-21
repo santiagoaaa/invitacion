@@ -681,7 +681,7 @@ function buscarInvitadoPorCodigo(jsonData, codigoABuscar) {
       },
       {
         "idInvitado": 63,
-        "codigoInvitaciones": "seKZ",
+        "codigoInvitaciones": "fyfZ",
         "nombre": "Karen López ",
         "numPases": 2,
         "nombrePases": [
