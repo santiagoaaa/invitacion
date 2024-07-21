@@ -440,7 +440,8 @@ function buscarInvitadoPorCodigo(jsonData, codigoABuscar) {
           { "nombre": "Novia Lalito" },
           { "nombre": "Diego Kisai Alba Gallart" },
           { "nombre": "Maria Jose" },
-          { "nombre": "Iker Alba (Niño)" }
+          { "nombre": "Iker Alba (Niño)" },
+          {"nombre": "Yolanda Alcántara López"}
         ]
       },
       {
@@ -535,8 +536,7 @@ function buscarInvitadoPorCodigo(jsonData, codigoABuscar) {
           { "nombre": "Tabata Marina" },
           { "nombre": "Greko" },
           { "nombre": "Leonardo Herrera" },
-          { "nombre": "Novia Leo" },
-          {"nombre": "Yolanda Alcántara López"}
+          { "nombre": "Novia Leo" }
         ]
       },
       {
@@ -677,6 +677,16 @@ function buscarInvitadoPorCodigo(jsonData, codigoABuscar) {
         "nombrePases": [
           { "nombre": "Marco Antorio Zaraut" },
           { "nombre": "Yaretzi Zaraut" }
+        ]
+      },
+      {
+        "idInvitado": 63,
+        "codigoInvitaciones": "seKZ",
+        "nombre": "Karen López ",
+        "numPases": 2,
+        "nombrePases": [
+          { "nombre": "Karen López" },
+          { "nombre": "Heriberto González" }
         ]
       }
     ]
