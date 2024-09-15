@@ -688,6 +688,24 @@ function buscarInvitadoPorCodigo(jsonData, codigoABuscar) {
           { "nombre": "Karen López" },
           { "nombre": "Heriberto González" }
         ]
+      },
+      {
+        "idInvitado": 64,
+        "codigoInvitaciones": "qmWa",
+        "nombre": "Israel Montoya",
+        "numPases": 2,
+        "nombrePases": [
+          { "nombre": "Israel Montoya" }
+        ]
+      },
+      {
+        "idInvitado": 65,
+        "codigoInvitaciones": "snAt",
+        "nombre": "Luis Alba Arreguin",
+        "numPases": 2,
+        "nombrePases": [
+          { "nombre": "Luis Alba Arreguin" }
+        ]
       }
     ]
   }
