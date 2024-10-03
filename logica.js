@@ -724,7 +724,7 @@ function buscarInvitadoPorCodigo(jsonData, codigoABuscar) {
         "numPases": 2,
         "nombrePases": [
           { "nombre": "Esther Nuñez" },
-          { "nombre": "Acompañante" }
+          { "nombre": "Pablo" }
         ]
       }
     ]
