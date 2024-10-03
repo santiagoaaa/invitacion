@@ -706,6 +706,26 @@ function buscarInvitadoPorCodigo(jsonData, codigoABuscar) {
         "nombrePases": [
           { "nombre": "Luis Alba Arreguin" }
         ]
+      },
+      {
+        "idInvitado": 66,
+        "codigoInvitaciones": "hiis",
+        "nombre": "Arcelia Mancera",
+        "numPases": 2,
+        "nombrePases": [
+          { "nombre": "Arcelia Mancera" },
+          { "nombre": "Nela Maldonado" }
+        ]
+      },
+      {
+        "idInvitado": 67,
+        "codigoInvitaciones": "evtJ",
+        "nombre": "Esther Nuñez",
+        "numPases": 2,
+        "nombrePases": [
+          { "nombre": "Esther Nuñez" },
+          { "nombre": "Acompañante" }
+        ]
       }
     ]
   }
