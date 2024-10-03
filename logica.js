@@ -726,6 +726,16 @@ function buscarInvitadoPorCodigo(jsonData, codigoABuscar) {
           { "nombre": "Esther Nuñez" },
           { "nombre": "Pablo" }
         ]
+      },
+      {
+        "idInvitado": 68,
+        "codigoInvitaciones": "ZlHl",
+        "nombre": "Alejandro Galera",
+        "numPases": 2,
+        "nombrePases": [
+          { "nombre": "Alejandro Galera" },
+          { "nombre": "Jessica Estrada" }
+        ]
       }
     ]
   }
